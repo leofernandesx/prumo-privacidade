@@ -4,7 +4,7 @@ lang: pt-BR
 ---
 
 
-Última atualização: 2 de outubro de 2026
+Última atualização: 2 de outubro de 2026 (inclui a assinatura Prumo Pro)
 
 O Prumo é um aplicativo para prestadores de serviço montarem orçamentos e recibos e mandarem
 pelo WhatsApp. Esta política explica, em linguagem simples, quais dados o app usa, onde eles
@@ -66,11 +66,20 @@ inclui dados dos seus clientes.
 
 Base legal: legítimo interesse em manter o app funcionando (art. 7º, IX).
 
+### Assinatura do Prumo Pro
+
+Se você assinar o Prumo Pro, a compra é feita pela loja (Google Play ou App Store). Para saber
+se a sua assinatura está ativa, o app usa o serviço **RevenueCat**, que recebe da loja o
+histórico de compras ligado a um identificador aleatório da instalação. O Prumo não recebe
+dados do seu cartão.
+
+Base legal: execução do contrato de assinatura (art. 7º, V).
+
 ### Onde esses dados ficam e por quanto tempo
 
-Os serviços PostHog e Sentry guardam esses dados em servidores fora do Brasil, com garantias
+Os serviços PostHog, Sentry e RevenueCat guardam esses dados em servidores fora do Brasil, com garantias
 contratuais de proteção (art. 33 da LGPD). As estatísticas e os relatórios de erro são guardados
-por **até 12 meses** e depois apagados.
+por **até 12 meses** e depois apagados. Os dados da assinatura ficam enquanto ela existir e pelo prazo exigido por lei.
 
 ## 5. Quando você manda um orçamento ou recibo
 
